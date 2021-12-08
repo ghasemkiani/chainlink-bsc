@@ -1,6 +1,6 @@
 {
   "name": "@ghasemkiani/chainlink-bsc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chainlink oracle price feeds on Binance Smart Chain",
   "type": "module",
   "main": "index.js",
