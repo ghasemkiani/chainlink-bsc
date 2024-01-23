@@ -1,34 +1,34 @@
 {
-  "name": "@ghasemkiani/chainlink-bsc",
-  "version": "1.0.1",
-  "description": "Chainlink oracle price feeds on Binance Smart Chain",
-  "type": "module",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://gitlab.com/ghasemkiani/chainlink-bsc.git"
-  },
-  "keywords": [
-    "blockchain",
-    "cryptocurrency",
-    "oracle",
-    "price",
-    "feed",
-    "binance-smart-chain",
-    "bsc"
-  ],
-  "author": "Ghasem Kiani",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/ghasemkiani/chainlink-bsc/issues"
-  },
-  "homepage": "https://gitlab.com/ghasemkiani/chainlink-bsc#readme",
-  "dependencies": {
-    "@ghasemkiani/base": "github:ghasemkiani/base",
-    "@ghasemkiani/binance-smart-chain": "github:ghasemkiani/binance-smart-chain",
-    "@ghasemkiani/chainlink-eth": "github:ghasemkiani/chainlink-eth"
-  }
+	"name": "@ghasemkiani/chainlink-bsc",
+	"version": "1.1.0",
+	"description": "Chainlink oracle price feeds on Binance Smart Chain",
+	"type": "module",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://gitlab.com/ghasemkiani/chainlink-bsc.git"
+	},
+	"keywords": [
+		"blockchain",
+		"cryptocurrency",
+		"oracle",
+		"price",
+		"feed",
+		"binance-smart-chain",
+		"bsc"
+	],
+	"author": "Ghasem Kiani",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://gitlab.com/ghasemkiani/chainlink-bsc/issues"
+	},
+	"homepage": "https://gitlab.com/ghasemkiani/chainlink-bsc#readme",
+	"dependencies": {
+		"@ghasemkiani/base": "github:ghasemkiani/base",
+		"@ghasemkiani/bnb-smart-chain": "github:ghasemkiani/bnb-smart-chain",
+		"@ghasemkiani/chainlink-eth": "github:ghasemkiani/chainlink-eth"
+	}
 }

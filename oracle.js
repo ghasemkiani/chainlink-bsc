@@ -1,5 +1,5 @@
 import {cutil} from "@ghasemkiani/base";
-import {Contract} from "@ghasemkiani/binance-smart-chain";
+import {Contract} from "@ghasemkiani/bnb-smart-chain";
 import {ifeed} from "@ghasemkiani/chainlink-eth";
 import {Oracle as OracleBase} from "@ghasemkiani/chainlink-eth";
 
